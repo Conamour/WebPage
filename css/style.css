@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+	 background: url(../image/fon3.jpg);
+}
+p{
+	margin-top: 25px;
+	font-family: Raleway;
+	color: white;
+	font-size: 12pt;
+}
+
+.navbar-inverse {
+	background: DarkRed;
+}
+
+li {
+	color: white;
+}
