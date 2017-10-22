@@ -10,13 +10,14 @@
 		static $begin = '<div class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-head">
-			<a class="navbar-brand" href="index.html">Cup Souls</a>
+			<a class="navbar-brand" href="index.php?page=1">Cup Souls</a>
 				<ul  class="nav navbar-nav">
 		</div>
 						<div class="collapse navbar-collapse">
 							<ul class="nav navbar-nav">';
 		static $end = '		</ul>
 						</div>
+					</div>
 	</div>';
 								
 	 	static public function renderMenu($num)
